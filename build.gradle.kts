@@ -77,6 +77,7 @@ dependencies {
     annotationProcessor("org.spongepowered:mixin:0.8.5-SNAPSHOT")
 
     compileOnly(files("C:/Users/blood/.lunarclient/offline/multiver/overrides/ReplayMod-v1_8-2.6.14.jar"))
+    compileOnly(files("C:/Users/blood/.lunarclient/offline/multiver/lunar.jar"))
 
     runtimeOnly("me.djtheredstoner:DevAuth-forge-legacy:1.2.1")
 }

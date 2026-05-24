@@ -1,6 +1,6 @@
-package coffee.axle.coffeeclient.examplemod.mixin;
+package coffee.axle.coffeeclient.disabler.mixin;
 
-import coffee.axle.coffeeclient.examplemod.util.Logger;
+import coffee.axle.coffeeclient.disabler.util.Logger;
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Unique;
@@ -18,7 +18,7 @@ public class MixinRunTick {
     private void onRunTick(CallbackInfo ci) {
         if (!logged) {
             logged = true;
-            Logger.info("[ExampleMod] MIXIN FIRED! Minecraft.runTick() injected from external mod JAR!");
+            Logger.info("[Disabler] MIXIN FIRED! Minecraft.runTick() injected.");
         }
     }
 }

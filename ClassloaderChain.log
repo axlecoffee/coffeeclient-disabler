@@ -1,0 +1,206 @@
+// keeping this here for reference
+
+[2026-05-24 03:08:38.350] [INFO] [Disabler] jdk.attach.allowAttachSelf = <not set>
+[2026-05-24 03:08:38.351] [INFO] [Disabler] java.version = 17.0.18
+[2026-05-24 03:08:38.351] [INFO] [Disabler] com.sun.tools.attach.VirtualMachine accessible = false
+[2026-05-24 03:08:38.352] [INFO] [Disabler] java.lang.instrument.Instrumentation accessible = true
+
+[2026-05-2403:08:50.866] [INFO] [Disabler] CL: com.moonsworth.lunar.genesis.IOCCIHIHRIRRRCRRICOCOHRHROHOHC
+
+[2026-05-2403:08:50.867] [INFO] [Disabler]   method getResourceAsStream(String) -> InputStream [declared on com.moonsworth.lunar.genesis.IOCCIHIHRIRRRCRRICOCOHRHROHOHC]
+
+[2026-05-2403:08:50.867] [INFO] [Disabler]   method findResource(String) -> URL [declared on com.moonsworth.lunar.genesis.IOCCIHIHRIRRRCRRICOCOHRHROHOHC]
+
+[2026-05-2403:08:50.867] [INFO] [Disabler]   method findClass(String) -> Class [declared on com.moonsworth.lunar.genesis.IOCCIHIHRIRRRCRRICOCOHRHROHOHC]
+
+[2026-05-2403:08:50.868] [INFO] [Disabler]   method findResources(String) -> Enumeration [declared on com.moonsworth.lunar.genesis.IOCCIHIHRIRRRCRRICOCOHRHROHOHC]
+
+[2026-05-2403:08:50.868] [INFO] [Disabler]   method RIRICCIRIOHIIIHIOHOOIOOIOCRRRH(String) -> InputStream [declared on com.moonsworth.lunar.genesis.IOCCIHIHRIRRRCRRICOCOHRHROHOHC]
+
+[2026-05-2403:08:50.868] [INFO] [Disabler]   method isExcluded(String) -> boolean [declared on com.moonsworth.lunar.genesis.IOCCIHIHRIRRRCRRICOCOHRHROHOHC]
+
+[2026-05-2403:08:50.869] [INFO] [Disabler]   method getResourceAsStream(String) -> InputStream [declared on java.net.URLClassLoader]
+
+[2026-05-2403:08:50.869] [INFO] [Disabler]   method findResource(String) -> URL [declared on java.net.URLClassLoader]
+
+[2026-05-2403:08:50.869] [INFO] [Disabler]   method findClass(String) -> Class [declared on java.net.URLClassLoader]
+
+[2026-05-2403:08:50.870] [INFO] [Disabler]   method findResources(String) -> Enumeration [declared on java.net.URLClassLoader]
+
+[2026-05-2403:08:50.870] [INFO] [Disabler]   method loadClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.870] [INFO] [Disabler]   method getPackage(String) -> Package [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.870] [INFO] [Disabler]   method getResourceAsStream(String) -> InputStream [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.871] [INFO] [Disabler]   method findResource(String) -> URL [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.871] [INFO] [Disabler]   method getSystemResourceAsStream(String) -> InputStream [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.872] [INFO] [Disabler]   method getResource(String) -> URL [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.872] [INFO] [Disabler]   method getSystemResource(String) -> URL [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.872] [INFO] [Disabler]   method desiredAssertionStatus(String) -> boolean [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.873] [INFO] [Disabler]   method checkCreateClassLoader(String) -> Void [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.873] [INFO] [Disabler]   method getClassLoadingLock(String) -> Object [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.873] [INFO] [Disabler]   method findLoadedClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.874] [INFO] [Disabler]   method findBootstrapClassOrNull(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.874] [INFO] [Disabler]   method findClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.874] [INFO] [Disabler]   method checkName(String) -> boolean [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.874] [INFO] [Disabler]   method findSystemClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.875] [INFO] [Disabler]   method findBootstrapClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.875] [INFO] [Disabler]   method findLoadedClass0(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.875] [INFO] [Disabler]   method getResources(String) -> Enumeration [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.875] [INFO] [Disabler]   method findResources(String) -> Enumeration [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.876] [INFO] [Disabler]   method resources(String) -> Stream [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.876] [INFO] [Disabler]   method getSystemResources(String) -> Enumeration [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.876] [INFO] [Disabler]   method getDefinedPackage(String) -> Package [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.877] [INFO] [Disabler]   method findLibrary(String) -> String [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.877] [INFO] [Disabler] CL: com.moonsworth.lunar.genesis.RRCHCORRIOICCOIOCRIOOCCOOHORCH
+
+[2026-05-2403:08:50.878] [INFO] [Disabler]   method findClass(String) -> Class [declared on com.moonsworth.lunar.genesis.RRCHCORRIOICCOIOCRIOOCCOOHORCH]
+
+[2026-05-2403:08:50.878] [INFO] [Disabler]   method getResourceAsStream(String) -> InputStream [declared on java.net.URLClassLoader]
+
+[2026-05-2403:08:50.878] [INFO] [Disabler]   method findResource(String) -> URL [declared on java.net.URLClassLoader]
+
+[2026-05-2403:08:50.879] [INFO] [Disabler]   method findClass(String) -> Class [declared on java.net.URLClassLoader]
+
+[2026-05-2403:08:50.879] [INFO] [Disabler]   method findResources(String) -> Enumeration [declared on java.net.URLClassLoader]
+
+[2026-05-2403:08:50.879] [INFO] [Disabler]   method loadClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.879] [INFO] [Disabler]   method getPackage(String) -> Package [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.880] [INFO] [Disabler]   method getResourceAsStream(String) -> InputStream [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.880] [INFO] [Disabler]   method findResource(String) -> URL [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.880] [INFO] [Disabler]   method getSystemResourceAsStream(String) -> InputStream [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.881] [INFO] [Disabler]   method getResource(String) -> URL [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.881] [INFO] [Disabler]   method getSystemResource(String) -> URL [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.881] [INFO] [Disabler]   method desiredAssertionStatus(String) -> boolean [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.882] [INFO] [Disabler]   method checkCreateClassLoader(String) -> Void [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.882] [INFO] [Disabler]   method getClassLoadingLock(String) -> Object [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.882] [INFO] [Disabler]   method findLoadedClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.882] [INFO] [Disabler]   method findBootstrapClassOrNull(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.883] [INFO] [Disabler]   method findClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.883] [INFO] [Disabler]   method checkName(String) -> boolean [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.883] [INFO] [Disabler]   method findSystemClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.884] [INFO] [Disabler]   method findBootstrapClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.884] [INFO] [Disabler]   method findLoadedClass0(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.884] [INFO] [Disabler]   method getResources(String) -> Enumeration [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.884] [INFO] [Disabler]   method findResources(String) -> Enumeration [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.884] [INFO] [Disabler]   method resources(String) -> Stream [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.884] [INFO] [Disabler]   method getSystemResources(String) -> Enumeration [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.885] [INFO] [Disabler]   method getDefinedPackage(String) -> Package [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.885] [INFO] [Disabler]   method findLibrary(String) -> String [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.885] [INFO] [Disabler] CL: jdk.internal.loader.ClassLoaders$PlatformClassLoader
+
+[2026-05-2403:08:50.886] [INFO] [Disabler]   method findResource(String) -> URL [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.887] [INFO] [Disabler]   method findClass(String) -> Class [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.887] [INFO] [Disabler]   method findResources(String) -> Enumeration [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.887] [INFO] [Disabler]   method findModule(String) -> ModuleReference [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.888] [INFO] [Disabler]   method findLoadedModule(String) -> LoadedModule [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.888] [INFO] [Disabler]   method appendClassPath(String) -> void [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.888] [INFO] [Disabler]   method findResourceOnClassPath(String) -> URL [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.889] [INFO] [Disabler]   method findMiscResource(String) -> List [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.889] [INFO] [Disabler]   method findResourcesOnClassPath(String) -> Enumeration [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.889] [INFO] [Disabler]   method lambda$findResourceOnClassPath$0(String) -> URL [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.890] [INFO] [Disabler]   method lambda$findResourcesOnClassPath$1(String) -> Enumeration [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.890] [INFO] [Disabler]   method findClassOnClassPathOrNull(String) -> Class [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.890] [INFO] [Disabler]   method loadClassOrNull(String) -> Class [declared on jdk.internal.loader.BuiltinClassLoader]
+
+[2026-05-2403:08:50.891] [INFO] [Disabler]   method loadClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.891] [INFO] [Disabler]   method getPackage(String) -> Package [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.891] [INFO] [Disabler]   method getResourceAsStream(String) -> InputStream [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.892] [INFO] [Disabler]   method findResource(String) -> URL [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.892] [INFO] [Disabler]   method getSystemResourceAsStream(String) -> InputStream [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.892] [INFO] [Disabler]   method getResource(String) -> URL [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.893] [INFO] [Disabler]   method getSystemResource(String) -> URL [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.893] [INFO] [Disabler]   method desiredAssertionStatus(String) -> boolean [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.893] [INFO] [Disabler]   method checkCreateClassLoader(String) -> Void [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.894] [INFO] [Disabler]   method getClassLoadingLock(String) -> Object [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.894] [INFO] [Disabler]   method findLoadedClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.894] [INFO] [Disabler]   method findBootstrapClassOrNull(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.894] [INFO] [Disabler]   method findClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.894] [INFO] [Disabler]   method checkName(String) -> boolean [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.895] [INFO] [Disabler]   method findSystemClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.895] [INFO] [Disabler]   method findBootstrapClass(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.895] [INFO] [Disabler]   method findLoadedClass0(String) -> Class [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.896] [INFO] [Disabler]   method getResources(String) -> Enumeration [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.896] [INFO] [Disabler]   method findResources(String) -> Enumeration [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.896] [INFO] [Disabler]   method resources(String) -> Stream [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.897] [INFO] [Disabler]   method getSystemResources(String) -> Enumeration [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.897] [INFO] [Disabler]   method getDefinedPackage(String) -> Package [declared on java.lang.ClassLoader]
+
+[2026-05-2403:08:50.897] [INFO] [Disabler]   method findLibrary(String) -> String [declared on java.lang.ClassLoader]
